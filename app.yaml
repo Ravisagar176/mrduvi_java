@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Java-Techie-jt/springboot-k8s-example.git
+    repoURL: https://github.com/Ravisagar176/mrduvi_java.git
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
