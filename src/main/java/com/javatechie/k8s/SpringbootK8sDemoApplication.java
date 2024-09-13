@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SpringbootK8sDemoApplication {
 
-	@GetMapping("/message")
+	@GetMapping("/mrduvi")
 	public String welcome(){
-		return "Congratulation you successfully deployed your application to kubernetes !!";
+		return "Mr Duvi: Hey, Congratulation you successfully deployed your application to kubernetes !!";
 	}
 
 	public static void main(String[] args) {
